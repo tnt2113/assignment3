@@ -1,4 +1,4 @@
-var data1 =[{"iso3":"AFG","year":1990,"wbregion":"South Asia","gdppc":882.6559,"life_ex":50.44257},
+var data1 = [{"iso3":"AFG","year":1990,"wbregion":"South Asia","gdppc":882.6559,"life_ex":50.44257},
 {"iso3":"AGO","year":1990,"wbregion":"Sub-Saharan Africa","gdppc":2526.693,"life_ex":50.38809},
 {"iso3":"ALB","year":1990,"wbregion":"Europe & Central Asia","gdppc":3569.756,"life_ex":73.57869},
 {"iso3":"AND","year":1990,"wbregion":"High-income","gdppc":49755.84,"life_ex":80.62421},
